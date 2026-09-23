@@ -3,70 +3,70 @@
     "id": 1,
     "nama": "Caffè Latte",
     "deskripsi": "Perpaduan espresso kaya rasa dengan susu hangat yang lembut dan lapisan foam tipis di atasnya.",
-    "poster": "caffe_latte_poster.jpg",
-    "thumbnail": "caffe_latte_thumbnail.png"
+    "poster": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/caffe_latte_poster.jpg",
+    "thumbnail": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/caffe_latte_thumbnail.png"
   },
   {
     "id": 2,
     "nama": "Caffè Mocha",
     "deskripsi": "Kombinasi sempurna antara espresso pekat, saus cokelat manis, dan susu hangat.",
-    "poster": "caffee_mocha_poster.jpg",
-    "thumbnail": "caffee_mocha_thumbnail.png"
+    "poster": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/caffee_mocha_poster.jpg",
+    "thumbnail": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/caffee_mocha_thumbnail.png"
   },
   {
     "id": 3,
     "nama": "Cappuccino",
     "deskripsi": "Minuman kopi khas dengan keseimbangan espresso, susu panas, dan foam susu yang tebal.",
-    "poster": "cappuccino_poster.jpg",
-    "thumbnail": "cappuccino_thumbnail.png"
+    "poster": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/cappuccino_poster.jpg",
+    "thumbnail": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/cappuccino_thumbnail.png"
   },
   {
     "id": 4,
     "nama": "Caramel Macchiato",
     "deskripsi": "Susu hangat bercita rasa sirup vanila yang disiram espresso dan topping saus karamel lezat.",
-    "poster": "caramel_macchiato_poster.jpg",
-    "thumbnail": "caramel_macchiato_thumbnail.png"
+    "poster": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/caramel_macchiato_poster.jpg",
+    "thumbnail": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/caramel_macchiato_thumbnail.png"
   },
   {
     "id": 5,
     "nama": "Coffee Frappuccino",
     "deskripsi": "Minuman kopi blender khas yang dingin, segar, dan diolah halus bersama es batu.",
-    "poster": "coffee_frappuccino_poster.jpg",
-    "thumbnail": "coffee_frappuccino_thumbnail.png"
+    "poster": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/coffee_frappuccino_poster.jpg",
+    "thumbnail": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/coffee_frappuccino_thumbnail.png"
   },
   {
     "id": 6,
     "nama": "Cold Brew",
     "deskripsi": "Kopi yang diseduh menggunakan air dingin selama belasan jam untuk rasa halus dan tidak asam.",
-    "poster": "cold_brew_poster.jpg",
-    "thumbnail": "cold_brew_thumbnail.png"
+    "poster": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/cold_brew_poster.jpg",
+    "thumbnail": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/cold_brew_thumbnail.png"
   },
   {
     "id": 7,
     "nama": "Mango Passion Frappuccino",
     "deskripsi": "Perpaduan rasa buah mangga manis dan teh markisa segar yang diblender dingin.",
-    "poster": "mango_passion_frappuccino_poster.jpg",
-    "thumbnail": "mango_passion_frappuccino_thumbnail.png"
+    "poster": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/mango_passion_frappuccino_poster.jpg",
+    "thumbnail": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/mango_passion_frappuccino_thumbnail.png"
   },
   {
     "id": 8,
     "nama": "Mocha Frappuccino",
     "deskripsi": "Kopi blender rasa cokelat manis yang disajikan dingin dengan whipped cream di atasnya.",
-    "poster": "mocha_frappuccino_poster.jpg",
-    "thumbnail": "mocha_frappuccino_thumbnail.png"
+    "poster": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/mocha_frappuccino_poster.jpg",
+    "thumbnail": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/mocha_frappuccino_thumbnail.png"
   },
   {
     "id": 9,
     "nama": "Raspberry Currant Frappuccino",
     "deskripsi": "Minuman blender segar berbasis buah raspberry dan blackcurrant yang manis asam seimbang.",
-    "poster": "raspberry_currant_frappuccino_poster.jpg",
-    "thumbnail": "raspberry_currant_frappuccino_thumbnail.png"
+    "poster": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/raspberry_currant_frappuccino_poster.jpg",
+    "thumbnail": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/raspberry_currant_frappuccino_thumbnail.png"
   },
   {
     "id": 10,
     "nama": "Vanilla Sweet Cream Cold Brew",
     "deskripsi": "Cold brew khas yang disajikan dengan sentuhan krim manis vanila lembut di atasnya.",
-    "poster": "vanilla_sweet_cream_cold_brew_poster.jpg",
-    "thumbnail": "vanilla_sweet_cream_cold_brew_thumbnail.png"
+    "poster": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/vanilla_sweet_cream_cold_brew_poster.jpg",
+    "thumbnail": "https://github.com/Rynr615/coffee_api_mopro/blob/main/images/vanilla_sweet_cream_cold_brew_thumbnail.png"
   }
 ]
