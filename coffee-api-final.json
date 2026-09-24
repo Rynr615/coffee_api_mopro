@@ -12,8 +12,8 @@
     "nama": "Caffè Mocha",
     "harga": "Rp 20.000",
     "deskripsi": "Espresso with bittersweet mocha sauce and steamed milk, topped with whipped cream.",
-    "poster": "https://raw.githubusercontent.com/Rynr615/coffee_api_mopro/main/images/caffee_mocha_poster.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/Rynr615/coffee_api_mopro/main/images/caffee_mocha_thumbnail.png"
+    "poster": "https://raw.githubusercontent.com/Rynr615/coffee_api_mopro/main/images/caffe_mocha_poster.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Rynr615/coffee_api_mopro/main/images/caffe_mocha_thumbnail.png"
   },
   {
     "id": 3,
